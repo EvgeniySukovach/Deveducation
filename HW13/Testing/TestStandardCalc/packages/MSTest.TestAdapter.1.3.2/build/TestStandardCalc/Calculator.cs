@@ -1,0 +1,8 @@
+﻿namespace CitizenTests
+{
+    class Calculator
+    {
+
+
+    }
+}
