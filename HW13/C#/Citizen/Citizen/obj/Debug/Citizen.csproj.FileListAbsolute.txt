@@ -1,0 +1,10 @@
+C:\Users\Компьютер\source\repos\Citizen\Citizen\bin\Debug\Citizen.exe.config
+C:\Users\Компьютер\source\repos\Citizen\Citizen\bin\Debug\Citizen.exe
+C:\Users\Компьютер\source\repos\Citizen\Citizen\bin\Debug\Citizen.pdb
+C:\Users\Компьютер\source\repos\Citizen\Citizen\obj\Debug\Citizen.csprojAssemblyReference.cache
+C:\Users\Компьютер\source\repos\Citizen\Citizen\obj\Debug\Citizen.Form1.resources
+C:\Users\Компьютер\source\repos\Citizen\Citizen\obj\Debug\Citizen.Properties.Resources.resources
+C:\Users\Компьютер\source\repos\Citizen\Citizen\obj\Debug\Citizen.csproj.GenerateResource.cache
+C:\Users\Компьютер\source\repos\Citizen\Citizen\obj\Debug\Citizen.csproj.CoreCompileInputs.cache
+C:\Users\Компьютер\source\repos\Citizen\Citizen\obj\Debug\Citizen.exe
+C:\Users\Компьютер\source\repos\Citizen\Citizen\obj\Debug\Citizen.pdb
