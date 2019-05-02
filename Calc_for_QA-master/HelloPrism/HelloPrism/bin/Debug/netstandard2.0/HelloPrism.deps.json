@@ -1,0 +1,187 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.0/",
+    "signature": "bb45db01e398ecccffdd1479ab804d577a44b527"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.0": {},
+    ".NETStandard,Version=v2.0/": {
+      "HelloPrism/1.0.0": {
+        "dependencies": {
+          "Acr.UserDialogs": "7.0.4",
+          "Corcav.Behaviors": "2.3.7",
+          "NETStandard.Library": "2.0.3",
+          "Prism.Unity.Forms": "7.0.0.396",
+          "Xamarin.Forms": "2.5.0.122203"
+        },
+        "runtime": {
+          "HelloPrism.dll": {}
+        }
+      },
+      "Acr.UserDialogs/7.0.4": {
+        "runtime": {
+          "lib/netstandard2.0/Acr.UserDialogs.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Corcav.Behaviors/2.3.7": {
+        "dependencies": {
+          "Xamarin.Forms": "2.5.0.122203"
+        },
+        "runtime": {
+          "lib/Corcav.Behaviors.dll": {
+            "assemblyVersion": "2.3.7.0",
+            "fileVersion": "2.3.7.0"
+          }
+        }
+      },
+      "Microsoft.NETCore.Platforms/1.1.0": {},
+      "NETStandard.Library/2.0.3": {
+        "dependencies": {
+          "Microsoft.NETCore.Platforms": "1.1.0"
+        }
+      },
+      "Prism.Core/7.0.0.396": {
+        "runtime": {
+          "lib/netstandard2.0/Prism.dll": {
+            "assemblyVersion": "7.0.0.396",
+            "fileVersion": "7.0.0.396"
+          }
+        }
+      },
+      "Prism.Forms/7.0.0.396": {
+        "dependencies": {
+          "Prism.Core": "7.0.0.396",
+          "Xamarin.Forms": "2.5.0.122203"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Prism.Forms.dll": {
+            "assemblyVersion": "7.0.0.396",
+            "fileVersion": "7.0.0.396"
+          }
+        }
+      },
+      "Prism.Unity.Forms/7.0.0.396": {
+        "dependencies": {
+          "Prism.Forms": "7.0.0.396",
+          "Unity": "5.5.5"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Prism.Unity.Forms.dll": {
+            "assemblyVersion": "7.0.0.396",
+            "fileVersion": "7.0.0.396"
+          }
+        }
+      },
+      "Unity/5.5.5": {
+        "runtime": {
+          "lib/netstandard2.0/CommonServiceLocator.dll": {
+            "assemblyVersion": "2.0.2.0",
+            "fileVersion": "2.0.2.0"
+          },
+          "lib/netstandard2.0/Unity.Abstractions.dll": {
+            "assemblyVersion": "3.1.2.0",
+            "fileVersion": "3.1.2.0"
+          },
+          "lib/netstandard2.0/Unity.Container.dll": {
+            "assemblyVersion": "5.5.5.0",
+            "fileVersion": "5.5.5.0"
+          },
+          "lib/netstandard2.0/Unity.ServiceLocation.dll": {
+            "assemblyVersion": "2.1.0.0",
+            "fileVersion": "2.1.0.0"
+          }
+        }
+      },
+      "Xamarin.Forms/2.5.0.122203": {
+        "runtime": {
+          "lib/netstandard1.0/Xamarin.Forms.Core.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          },
+          "lib/netstandard1.0/Xamarin.Forms.Platform.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          },
+          "lib/netstandard1.0/Xamarin.Forms.Xaml.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HelloPrism/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Acr.UserDialogs/7.0.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-J+3+rSVtAAUqvaXC0NGZ6HAcSXMaMyqvKsV1sMoraT7g+Zv/r4QmgUUITPu875n0uO57Y87Xn6IbLVDPje6tlw==",
+      "path": "acr.userdialogs/7.0.4",
+      "hashPath": "acr.userdialogs.7.0.4.nupkg.sha512"
+    },
+    "Corcav.Behaviors/2.3.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-gUZNL9cMavD8NNgnUq8x98t8hbvYuxf08279DUTYY7S6LzGNo/tvK8xi69s87RHqMs1gLXW8rpHiNwxB01V4kQ==",
+      "path": "corcav.behaviors/2.3.7",
+      "hashPath": "corcav.behaviors.2.3.7.nupkg.sha512"
+    },
+    "Microsoft.NETCore.Platforms/1.1.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
+      "path": "microsoft.netcore.platforms/1.1.0",
+      "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "NETStandard.Library/2.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-st47PosZSHrjECdjeIzZQbzivYBJFv6P2nv4cj2ypdI204DO+vZ7l5raGMiX4eXMJ53RfOIg+/s4DHVZ54Nu2A==",
+      "path": "netstandard.library/2.0.3",
+      "hashPath": "netstandard.library.2.0.3.nupkg.sha512"
+    },
+    "Prism.Core/7.0.0.396": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XxPmXiA+v/D6zUeAUwSz7GgWNIbzyLLgkP32vDr6fGfv/YPg8CRkmkf+MkP+cxXKdUsqezxXgRRwMUcjWRqWMw==",
+      "path": "prism.core/7.0.0.396",
+      "hashPath": "prism.core.7.0.0.396.nupkg.sha512"
+    },
+    "Prism.Forms/7.0.0.396": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-QWnC4tfyLgIDKl+7wSm+lASOpU14enpl1RV27QbeIoORYXyoBsNA8omF+gfH2JH12VQ9Xpb1q3YLFA98d8+NmA==",
+      "path": "prism.forms/7.0.0.396",
+      "hashPath": "prism.forms.7.0.0.396.nupkg.sha512"
+    },
+    "Prism.Unity.Forms/7.0.0.396": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7NEAhjB6QVRL1JO6HXLo5BpKFMvepEjvbmOSafd6NsLQpLTS3NCu3ptro9iB7nvZxuZnPGbnrkwqcE4lIs4jtg==",
+      "path": "prism.unity.forms/7.0.0.396",
+      "hashPath": "prism.unity.forms.7.0.0.396.nupkg.sha512"
+    },
+    "Unity/5.5.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kg101Re8N7rzTro2G5n6k9j15MpuRQQ+4MjmDY36RL/ewCa93f2ZOp8Mayl6Ou0d/AGf9YVEK4r7uCpNV6fczQ==",
+      "path": "unity/5.5.5",
+      "hashPath": "unity.5.5.5.nupkg.sha512"
+    },
+    "Xamarin.Forms/2.5.0.122203": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qg7A2IXbVV/5u9qqeiDhRMwpVEsbWKBxzeAtD0rTuntmaDB1Z7WuBg5IK2VBklJbKe2Ps8V9zBfEwgJIqPVJUw==",
+      "path": "xamarin.forms/2.5.0.122203",
+      "hashPath": "xamarin.forms.2.5.0.122203.nupkg.sha512"
+    }
+  }
+}

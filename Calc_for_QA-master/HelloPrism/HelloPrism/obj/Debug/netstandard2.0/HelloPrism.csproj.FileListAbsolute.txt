@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Calc_for_QA-master\HelloPrism\HelloPrism\bin\Debug\netstandard2.0\HelloPrism.deps.json
+C:\Users\User\Desktop\Calc_for_QA-master\HelloPrism\HelloPrism\bin\Debug\netstandard2.0\HelloPrism.dll
+C:\Users\User\Desktop\Calc_for_QA-master\HelloPrism\HelloPrism\bin\Debug\netstandard2.0\HelloPrism.pdb
+C:\Users\User\Desktop\Calc_for_QA-master\HelloPrism\HelloPrism\obj\Debug\netstandard2.0\HelloPrism.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Calc_for_QA-master\HelloPrism\HelloPrism\obj\Debug\netstandard2.0\HelloPrism.App.xaml.g.cs
+C:\Users\User\Desktop\Calc_for_QA-master\HelloPrism\HelloPrism\obj\Debug\netstandard2.0\HelloPrism.Views.MainPage.xaml.g.cs
+C:\Users\User\Desktop\Calc_for_QA-master\HelloPrism\HelloPrism\obj\Debug\netstandard2.0\HelloPrism.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Calc_for_QA-master\HelloPrism\HelloPrism\obj\Debug\netstandard2.0\HelloPrism.AssemblyInfo.cs
+C:\Users\User\Desktop\Calc_for_QA-master\HelloPrism\HelloPrism\obj\Debug\netstandard2.0\HelloPrism.dll
+C:\Users\User\Desktop\Calc_for_QA-master\HelloPrism\HelloPrism\obj\Debug\netstandard2.0\HelloPrism.pdb
+C:\Users\User\Desktop\Calc_for_QA-master\HelloPrism\HelloPrism\obj\Debug\netstandard2.0\HelloPrism.csprojAssemblyReference.cache
